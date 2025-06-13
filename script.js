@@ -1,1 +1,0 @@
-// Script tersedia di textdoc Script
